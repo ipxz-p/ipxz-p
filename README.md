@@ -1,4 +1,4 @@
-### Hi there ![Alt Text](https://cdn.discordapp.com/emojis/786631835177975859.gif?size=12)
+### Hi there ![Alt Text](https://cdn.discordapp.com/emojis/786631835177975859.gif?size=24)
 
 <!--
 **ipxz-p/ipxz-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
