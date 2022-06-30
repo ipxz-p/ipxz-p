@@ -27,6 +27,6 @@
   <img width="5%" src="https://avatars.githubusercontent.com/u/67109815?v=4&s=400" />
   <img width="5%" src="https://www.linaro.org/generated/assets/images/content/windows_on_arm/nodeJS-351-7195f2.png" />
   <img width="3%" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
-   <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
+   <img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
  </div>
 </div>
