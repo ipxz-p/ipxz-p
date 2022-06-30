@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Pongsiri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
+<div align="center" width="50%">
   
 ![cat](https://c.tenor.com/gocd3PIxfPcAAAAd/anya-forger-spy-x-family.gif)
   
