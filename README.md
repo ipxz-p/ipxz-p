@@ -4,7 +4,7 @@
   
 <img src="https://c.tenor.com/gocd3PIxfPcAAAAd/anya-forger-spy-x-family.gif" width="250" height="250"/>
 <p>I'm a sophomore at Faculty of Information Technology, KMITL</p>
-<p></p>Interesting in Web Development(mostly front-end) and UX/UI Design
+<p></p>Interesting in Web Development and UX/UI Design
   
 </div>
 
