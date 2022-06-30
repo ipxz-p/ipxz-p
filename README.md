@@ -1,8 +1,11 @@
 <h1 align="center">Hi , I'm Pongsiri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center" width="50%">
+<div align="center">
   
 <img src="https://c.tenor.com/gocd3PIxfPcAAAAd/anya-forger-spy-x-family.gif" width="250" height="250"/>
+
+<p>I'm a sophomore at Faculty of Information Technology, KMITL</p>
+
   
 </div>
 
@@ -12,9 +15,6 @@
 
 <div>
 <h1><img width="3%" src="https://cdn-icons.flaticon.com/png/512/1422/premium/1422371.png?token=exp=1656610067~hmac=39c529e1d1b7186942513a82c6f7b0e5" /> My Github Stats</h1>
-<div align="center">
-  <p>I'm a sophomore at Faculty of Information Technology, KMITL</p>
-</div>
   
 <div align="center">   
 
