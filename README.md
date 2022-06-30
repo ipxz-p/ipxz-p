@@ -1,11 +1,10 @@
 <h1 align="center">Hi , I'm Pongsiri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
+<div align="center">  
   
 <img src="https://c.tenor.com/gocd3PIxfPcAAAAd/anya-forger-spy-x-family.gif" width="250" height="250"/>
-
 <p>I'm a sophomore at Faculty of Information Technology, KMITL</p>
-
+<p></p>Interesting in Web Development(mostly front-end) and UX/UI Design
   
 </div>
 
