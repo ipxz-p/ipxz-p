@@ -16,5 +16,7 @@
 
 <div>
 <h1>My Tools</h1>
-<img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
+ <div align="center">
+  <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
+ </div>
 </div>
