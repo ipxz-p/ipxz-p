@@ -2,7 +2,7 @@
 
 <div align="center" width="50%">
   
-![cat](https://c.tenor.com/gocd3PIxfPcAAAAd/anya-forger-spy-x-family.gif)
+<img src="https://c.tenor.com/gocd3PIxfPcAAAAd/anya-forger-spy-x-family.gif" width="250" height="250"/>
   
 </div>
 
