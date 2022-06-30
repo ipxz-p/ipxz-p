@@ -20,5 +20,6 @@
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+  <img width="5%" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1656610632~hmac=462e151750b0eac685d0580e313888b9" />
  </div>
 </div>
