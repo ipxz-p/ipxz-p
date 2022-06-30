@@ -7,7 +7,7 @@
 </div>
 
 <div>
-<h1>About me</h1>
+<h1><img width="3%" src="https://cdn-icons-png.flaticon.com/512/4322/4322991.png" /> About me</h1>
 </div>
 
 <div>
