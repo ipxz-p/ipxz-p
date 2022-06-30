@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Pongsiri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
-<h1><img width="5%" src="https://cdn-icons.flaticon.com/png/512/1422/premium/1422371.png?token=exp=1656610067~hmac=39c529e1d1b7186942513a82c6f7b0e5" /> My Github Stats</h1>
+<h1><img width="2%" src="https://cdn-icons.flaticon.com/png/512/1422/premium/1422371.png?token=exp=1656610067~hmac=39c529e1d1b7186942513a82c6f7b0e5" /> My Github Stats</h1>
   
 <div align="center">   
 
