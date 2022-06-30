@@ -10,10 +10,6 @@
 </div>
 
 <div>
-<h1><img width="3%" src="https://cdn-icons-png.flaticon.com/512/4322/4322991.png" /> About me</h1>
-</div>
-
-<div>
 <h1><img width="3%" src="https://cdn-icons.flaticon.com/png/512/1422/premium/1422371.png?token=exp=1656610067~hmac=39c529e1d1b7186942513a82c6f7b0e5" /> My Github Stats</h1>
   
 <div align="center">   
