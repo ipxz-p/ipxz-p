@@ -9,7 +9,7 @@
 </div>
 
 <div>
-<h1><img width="100%" src="https://i.pinimg.com/originals/8e/19/b7/8e19b7a62918568080fc4f09ef8d3184.gif" /> My Github Stats</h1>
+<h1><img width="10%" src="https://i.pinimg.com/originals/8e/19/b7/8e19b7a62918568080fc4f09ef8d3184.gif" /> My Github Stats</h1>
   
 <div align="center">   
 
