@@ -24,7 +24,7 @@
 </div>
 
 <div>
-<h1><img width="3%" src="https://cdn-icons.flaticon.com/png/512/807/premium/807262.png?token=exp=1656612634~hmac=fb3d98d914975c0bc3d3e8efff2376ea" /> My Tools</h1>
+<h1>My Tools</h1>
  <div align="center">
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
