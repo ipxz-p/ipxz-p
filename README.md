@@ -20,6 +20,12 @@
 <br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ipxz-p&theme=highcontrast&background=000000&ring=FFFC1F)](https://git.io/streak-stats)
 
+  <a href="https://github.com/ipxz-p/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/ipxz-p/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/ipxz-p/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 </div>
 </div>
 
