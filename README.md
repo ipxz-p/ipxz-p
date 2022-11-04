@@ -3,7 +3,7 @@
 <div align="center">  
   
 <img src="https://c.tenor.com/gocd3PIxfPcAAAAd/anya-forger-spy-x-family.gif" width="250" height="250"/>
-<p>I'm a Sophomore at Faculty of Information Technology, KMITL</p>
+<p>I'm a Sophomore at Faculty of Information Technology KMITL</p>
 <p></p>Interesting in Full Stack Developer and UX/UI Design
   
 </div>
@@ -40,3 +40,4 @@
   <img width="5%" src="https://scrollrevealjs.org/img/share.png" />
  </div>
 </div>
+
