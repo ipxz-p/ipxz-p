@@ -16,13 +16,6 @@
 ![](https://raw.githubusercontent.com/ipxz-p/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ipxz-p/github-stats-transparent/output/generated/languages.svg)
  
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipxz-p&theme=radical&show_icons=true&text_color=ffffff&bg_color=000000&title_color=f7d747&border_color=f7d747)
-<br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipxz-p&theme=radical&show_icons=true&text_color=ffffff&bg_color=000000&title_color=f7d747&border_color=f7d747)
-<br />
-
-<br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ipxz-p&theme=highcontrast&background=000000&ring=FFFC1F)](https://git.io/streak-stats)
 
   
