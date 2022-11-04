@@ -16,8 +16,7 @@
 ![](https://raw.githubusercontent.com/ipxz-p/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ipxz-p/github-stats-transparent/output/generated/languages.svg)
  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipxz-p&theme=radical&text_color=ffffff&bg_color=000000&title_color=f7d747&layout=compact)  
+  
 <br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ipxz-p&theme=radical&show_icons=true&text_color=ffffff&bg_color=000000&title_color=f7d747&border_color=f7d747)
 <br />
