@@ -37,6 +37,7 @@
   <img width="5%" src="https://www.linaro.org/generated/assets/images/content/windows_on_arm/nodeJS-351-7195f2.png" />
   <img width="3.5%" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
  
   
  </div>
