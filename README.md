@@ -28,6 +28,7 @@
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" />
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" />
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
   <img width="5%" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" />
   <img width="5%" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" />
   <img width="5%" src="https://poompongphun.github.io/images/icon/vuetify.png" />
@@ -37,7 +38,7 @@
   <img width="3.5%" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />
   <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
   <img width="5%" src="https://cms-assets.tutsplus.com/uploads/users/780/posts/39427/image-upload/68747470733a2f2f6769746875622e7375726d6f6e2e6d652f696d616765732f636f6d6d6f6e2f7377697065722d6c6f676f2e737667.svg" />
-  <img width="5%" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" />
+  
  </div>
 </div>
 
